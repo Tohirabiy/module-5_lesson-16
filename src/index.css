@@ -1,0 +1,15 @@
+.hidden{
+    display: none;
+}
+
+ul{
+    display: flex;
+    column-gap: 40px;
+
+}
+
+.active{
+    padding: 6px;
+    background-color: lime;
+    border-radius: 10px;
+}
